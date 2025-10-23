@@ -26,6 +26,10 @@
   margin-right: 0!important;
 }
 
+.me-2 {
+  margin-right: .5rem!important;
+}
+
 .me-4 {
   margin-right: 1.5rem!important;
 }
@@ -48,6 +52,10 @@
 
 .ms-0 {
   margin-left: 0!important;
+}
+
+.ms-2 {
+  margin-left: .5rem!important;
 }
 
 .ms-auto {
@@ -75,8 +83,8 @@
   padding-right: 0!important;
 }
 
-.pe-2 {
-  padding-right: .5rem!important;
+.pe-1 {
+  padding-right: .25rem!important;
 }
 
 .pe-6 {
@@ -85,10 +93,6 @@
 
 .pb-0 {
   padding-bottom: 0!important;
-}
-
-.pb-3 {
-  padding-bottom: 1rem!important;
 }
 
 .ps-0 {
