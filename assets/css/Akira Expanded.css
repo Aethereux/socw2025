@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Akira Expanded';
+	src: url(../../assets/fonts/Akira%20Expanded-5f78253c7521f37af4d9da814c91d54e.woff2) format('woff2'),
+	url(../../assets/fonts/Akira%20Expanded-f21645328abfc456d050cbf2472b855c.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Akira Expanded';
+	src: url(../../assets/fonts/Akira%20Expanded-f170545c767a00e6dff671b2555978e5.woff2) format('woff2'),
+	url(../../assets/fonts/Akira%20Expanded-74d3f6d213b13047f1f5cdbc5768c484.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Akira Expanded';
+	src: url(../../assets/fonts/Akira%20Expanded-aecd056c634a6e07e141b98458d60353.woff2) format('woff2'),
+	url(../../assets/fonts/Akira%20Expanded-281e4a660180e3fc3c213ba4d5646540.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

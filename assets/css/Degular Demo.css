@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Degular Demo';
+	src: url(../../assets/fonts/Degular%20Demo-f7be35e1a320bc5998ca21d53d3da1ec.woff2) format('woff2'),
+	url(../../assets/fonts/Degular%20Demo-17289caefd99e94e9009f1f045b8e99a.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Degular Demo';
+	src: url(../../assets/fonts/Degular%20Demo-68a69a94f748af838fbb31ca7f947a99.woff2) format('woff2'),
+	url(../../assets/fonts/Degular%20Demo-ec06fb6a43c18a794d66faad31a27e2d.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
