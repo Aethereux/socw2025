@@ -4,6 +4,10 @@
   --bs-body-font-family: ABeeZee, sans-serif;
 }
 
+.m-3 {
+  margin: 1rem!important;
+}
+
 .mx-auto {
   margin-right: auto!important;
   margin-left: auto!important;
@@ -46,10 +50,6 @@
   margin-bottom: 1.5rem!important;
 }
 
-.mb-6 {
-  margin-bottom: 4.5rem !important;
-}
-
 .ms-0 {
   margin-left: 0!important;
 }
@@ -62,6 +62,10 @@
   padding: 1rem!important;
 }
 
+.p-4 {
+  padding: 1.5rem!important;
+}
+
 .py-3 {
   padding-top: 1rem!important;
   padding-bottom: 1rem!important;
@@ -69,10 +73,6 @@
 
 .pt-0 {
   padding-top: 0!important;
-}
-
-.pt-3 {
-  padding-top: 1rem!important;
 }
 
 .pe-0 {
@@ -93,10 +93,6 @@
 
 .ps-0 {
   padding-left: 0!important;
-}
-
-.ps-3 {
-  padding-left: 1rem!important;
 }
 
 .ps-4 {
